@@ -1,0 +1,29 @@
+.teams-container {
+    display: flex; /* Use Flexbox to align the teams side by side */
+    flex-wrap: wrap; /* Wrap teams to the next line if there are too many to fit */
+    gap: 20px; /* Add some space between the teams */
+  }
+  
+  .team-card {
+    flex: 1 1 30%; /* Make each team take up 30% of the container width */
+    background-color: #f8f9fa;
+    padding: 15px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .team-card h4 {
+    color: #5cb85c;
+    margin-bottom: 10px;
+  }
+  
+  .table-bordered {
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  .table-bordered th, .table-bordered td {
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
