@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/make-my-futsal-team/static/css/main.76a8b710.css",
-    "main.js": "/make-my-futsal-team/static/js/main.63eff0ba.js",
+    "main.css": "/make-my-futsal-team/static/css/main.3045cb15.css",
+    "main.js": "/make-my-futsal-team/static/js/main.eee4cef5.js",
     "index.html": "/make-my-futsal-team/index.html",
-    "main.76a8b710.css.map": "/make-my-futsal-team/static/css/main.76a8b710.css.map",
-    "main.63eff0ba.js.map": "/make-my-futsal-team/static/js/main.63eff0ba.js.map"
+    "main.3045cb15.css.map": "/make-my-futsal-team/static/css/main.3045cb15.css.map",
+    "main.eee4cef5.js.map": "/make-my-futsal-team/static/js/main.eee4cef5.js.map"
   },
   "entrypoints": [
-    "static/css/main.76a8b710.css",
-    "static/js/main.63eff0ba.js"
+    "static/css/main.3045cb15.css",
+    "static/js/main.eee4cef5.js"
   ]
 }
